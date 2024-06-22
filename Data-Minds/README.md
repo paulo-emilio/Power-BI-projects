@@ -3,7 +3,9 @@
 #### Visão Geral
 O projeto DataMinds tem como objetivo principal criar um dashboard interativo no Power BI para analisar as vendas de cursos oferecidos pela empresa. A análise abrange o total de vendas, percentual de comissão e total de comissão gerada, permitindo uma visão detalhada do desempenho das vendas de cursos.
 
-[![](dataminds.gif)](link_do_seu_dashboard_power_bi)
+[![](dataminds.gif)](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+
+**Link para acessar o dashboard no Power BI:** [Dashboard DataMinds](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
 #### Dados Analisados
 
