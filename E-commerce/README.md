@@ -3,7 +3,10 @@
 #### Visão Geral
 Este projeto consiste na análise detalhada dos dados de compras feitas em e-commerces no Brasil entre janeiro de 2017 e agosto de 2018, utilizando os dados fornecidos pela plataforma Olist. O objetivo é explorar e entender padrões de compra, métodos de pagamento preferidos, valores dos produtos vendidos e o volume de pedidos registrados ao longo do período analisado.
 
-[![](olist.gif)](https://app.powerbi.com/view?r=eyJrIjoiNjMxN2ZiMzAtMmUxMC00MDk1LTg1ODAtNzg2MTFkNzQ3YmE0IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](olist.gif)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+
+**Link para acessar o dashboard no Power BI:** [Dashboard E-commerce no Brasil](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+
 
 #### Dados Analisados
 
