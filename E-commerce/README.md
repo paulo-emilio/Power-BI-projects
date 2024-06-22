@@ -1,30 +1,37 @@
-# Portfólio de Projetos Power BI
+## Análise de Dados de E-commerce no Brasil: Olist
 
-Bem-vindo ao meu portfólio de projetos desenvolvidos em Power BI. Onde explorei diferentes conjuntos de dados e criei Dashboards informativos.
+#### Visão Geral
+Este projeto consiste na análise detalhada dos dados de compras feitas em e-commerces no Brasil entre janeiro de 2017 e agosto de 2018, utilizando os dados fornecidos pela plataforma Olist. O objetivo é explorar e entender padrões de compra, métodos de pagamento preferidos, valores dos produtos vendidos e o volume de pedidos registrados ao longo do período analisado.
 
-| :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
-| -------------  | --- |
-| :sparkles: Nome        | **Análises de Dados com Power BI**
-| :label: Tecnologias | power bi, m, dax
-| :rocket: URL         | [Super Pets](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [Clube do Livro](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [E-commerce no Brasil](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [People Analytics](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [Vendas DataMinds](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](olist.gif)](https://app.powerbi.com/view?r=eyJrIjoiNjMxN2ZiMzAtMmUxMC00MDk1LTg1ODAtNzg2MTFkNzQ3YmE0IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-### People Analytics: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/peopleanalytics.gif)](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+#### Dados Analisados
 
-### Super Pets: 
-#### Dashboard que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação, permitindo a análise do faturamento com filtros por gênero, período, bairro, produto e marca.
-[![](gifs/superpets.gif)](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+1. **Métodos de Pagamento**
+   - **Descrição:** Análise da distribuição de métodos de pagamento utilizados pelos consumidores.
+   - **Finalidade:** Identificar preferências de pagamento e tendências de utilização ao longo do tempo.
 
-### E-commerce no Brasil: 
-#### Análise de dados Olist, examinando compras feitas em e-commerces no Brasil entre janeiro de 2017 e agosto de 2018, incluindo métodos de pagamento, valores dos produtos e pedidos registrados.
-[![](gifs/olist.gif#vitrinedev)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+2. **Valores dos Produtos**
+   - **Descrição:** Visão geral dos valores médios e totais dos produtos vendidos.
+   - **Finalidade:** Avaliar o ticket médio das compras e identificar variações nos valores dos produtos ao longo dos meses.
 
-### Clube do Livro: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/clubedolivro.gif)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+3. **Pedidos Registrados**
+   - **Descrição:** Análise do volume de pedidos registrados por mês ou por trimestre.
+   - **Finalidade:** Identificar sazonalidades ou picos de vendas e ajustar estratégias de estoque e logística.
 
-### People Analytics: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/dataminds.gif)](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+6. **Categorias de Produtos**
+   - **Descrição:** Análise das categorias de produtos mais vendidas.
+   - **Finalidade:** Identificar as categorias com maior potencial de crescimento e focar esforços de marketing e promoção.
+
+#### Funcionalidades Adicionais
+- **Filtros Interativos:** Permite aos usuários filtrar dados por período, método de pagamento, etc.
+- **Visualizações Dinâmicas:** Gráficos e tabelas que se atualizam conforme a interação do usuário com os filtros, oferecendo uma experiência personalizada.
+
+#### Ferramentas e Técnicas Utilizadas
+- **Power BI:** Utilizado para a criação do dashboard interativo, aproveitando suas capacidades avançadas de visualização e análise de dados.
+- **Modelagem de Dados:** Integração e relação entre diferentes conjuntos de dados para proporcionar análises integradas e significativas.
+- **Análise Estatística:** Aplicação de técnicas estatísticas para identificar tendências e padrões nos dados de vendas.
+
+#### Conclusão
+Este dashboard no Power BI oferece uma plataforma robusta para análise de dados de e-commerce no Brasil, utilizando os dados da Olist. Ele proporciona insights valiosos que podem informar decisões estratégicas em diversas áreas, desde operações logísticas até estratégias de marketing e atendimento ao cliente, permitindo uma compreensão mais profunda do comportamento do consumidor e das dinâmicas de mercado.
+
