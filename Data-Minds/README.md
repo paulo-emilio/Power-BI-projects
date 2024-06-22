@@ -1,30 +1,45 @@
-# Portfólio de Projetos Power BI
+## DataMinds: Análise de Vendas de Cursos
 
-Bem-vindo ao meu portfólio de projetos desenvolvidos em Power BI. Onde explorei diferentes conjuntos de dados e criei Dashboards informativos.
+#### Visão Geral
+O projeto DataMinds tem como objetivo principal criar um dashboard interativo no Power BI para analisar as vendas de cursos oferecidos pela empresa. A análise abrange o total de vendas, percentual de comissão e total de comissão gerada, permitindo uma visão detalhada do desempenho das vendas de cursos.
 
-| :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
-| -------------  | --- |
-| :sparkles: Nome        | **Análises de Dados com Power BI**
-| :label: Tecnologias | power bi, m, dax
-| :rocket: URL         | [Super Pets](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [Clube do Livro](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [E-commerce no Brasil](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [People Analytics](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [Vendas DataMinds](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](dataminds.gif)](link_do_seu_dashboard_power_bi)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-### People Analytics: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/peopleanalytics.gif)](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+#### Dados Analisados
 
-### Super Pets: 
-#### Dashboard que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação, permitindo a análise do faturamento com filtros por gênero, período, bairro, produto e marca.
-[![](gifs/superpets.gif)](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+1. **Total de Vendas**
+   - **Descrição:** Gráfico mostrando o valor total das vendas de cursos.
+   - **Finalidade:** Monitorar o desempenho financeiro das vendas de cursos ao longo do tempo.
 
-### E-commerce no Brasil: 
-#### Análise de dados Olist, examinando compras feitas em e-commerces no Brasil entre janeiro de 2017 e agosto de 2018, incluindo métodos de pagamento, valores dos produtos e pedidos registrados.
-[![](gifs/olist.gif#vitrinedev)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+2. **Percentual e Total de Comissão**
+   - **Descrição:** Visão consolidada do percentual de comissão sobre as vendas e o total de comissão gerada.
+   - **Finalidade:** Avaliar a eficácia do sistema de comissões e seu impacto no resultado financeiro.
 
-### Clube do Livro: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/clubedolivro.gif)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+3. **Filtros Disponíveis**
+   - **Vendedor:** Permite análise das vendas por vendedor específico.
+   - **Categoria de Curso:** Filtragem por categorias de cursos oferecidos (por exemplo, Tecnologia, Negócios, Saúde, etc.).
+   - **Ano e Mês:** Segmentação das vendas por período específico.
+   - **Curso Específico:** Detalhamento das vendas de um curso específico selecionado.
 
-### People Analytics: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/dataminds.gif)](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+4. **Análise por Categoria de Curso**
+   - **Descrição:** Gráficos e tabelas detalhando as vendas por cada categoria de curso.
+   - **Finalidade:** Identificar quais categorias de cursos são mais populares entre os clientes e ajustar o mix de cursos oferecidos.
+
+5. **Desempenho por Vendedor**
+   - **Descrição:** Comparação do desempenho de vendas entre diferentes vendedores.
+   - **Finalidade:** Reconhecer os vendedores mais eficazes e identificar oportunidades de desenvolvimento e incentivo.
+
+#### Funcionalidades Adicionais
+
+- **Interatividade:** Filtros dinâmicos que permitem aos usuários explorar diferentes aspectos das vendas de cursos.
+- **Visualizações Dinâmicas:** Gráficos que se atualizam em tempo real conforme os filtros são aplicados, proporcionando uma análise personalizada.
+
+#### Ferramentas Utilizadas
+
+- **Power BI:** Utilizado para desenvolver o dashboard interativo e explorar as capacidades avançadas de visualização de dados.
+- **Integração de Dados:** Incorporação de diferentes fontes de dados para oferecer uma visão integrada e abrangente das vendas de cursos.
+- **Análise Preditiva:** Utilização de modelos para prever tendências de vendas com base em históricos anteriores.
+
+#### Conclusão
+
+O dashboard do projeto DataMinds no Power BI oferece uma ferramenta robusta para análise detalhada das vendas de cursos, permitindo à equipe de vendas e gestão tomar decisões estratégicas informadas para impulsionar o crescimento e a eficiência nas vendas de cursos da empresa.
