@@ -1,4 +1,4 @@
-## Projeto de People Analytics: Análise de Movimentações e Desligamentos
+## People Analytics: Análise de Movimentações e Desligamentos
 
 ### Visão Geral 
 Este projeto de People Analytics tem como objetivo analisar os dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
