@@ -1,30 +1,28 @@
-# Portfólio de Projetos Power BI
+## Projeto de People Analytics: Análise de Movimentações e Desligamentos
 
-Bem-vindo ao meu portfólio de projetos desenvolvidos em Power BI. Onde explorei diferentes conjuntos de dados e criei Dashboards informativos.
+### Visão Geral 
+Este projeto de People Analytics tem como objetivo analisar os dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
 
-| :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
-| -------------  | --- |
-| :sparkles: Nome        | **Análises de Dados com Power BI**
-| :label: Tecnologias | power bi, m, dax
-| :rocket: URL         | [Super Pets](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [Clube do Livro](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [E-commerce no Brasil](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [People Analytics](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9) <br> [Vendas DataMinds](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](peopleanalytics.gif)](https://app.powerbi.com/view?r=eyJrIjoiNjMxN2ZiMzAtMmUxMC00MDk1LTg1ODAtNzg2MTFkNzQ3YmE0IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-### People Analytics: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/peopleanalytics.gif)](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+### Dados Analisados
+1. **Admissões:** Registro de novas contratações na empresa.
+2. **Movimentações Internas:** Mudanças de cargo, promoções ou transferências de funcionários.
+3. **Desligamentos Voluntários ou Demitidos:** Registros de saídas voluntárias e demissões.
+4. **Pessoas Empregadas Ativas:** Número atual de funcionários ativos na empresa.
 
-### Super Pets: 
-#### Dashboard que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação, permitindo a análise do faturamento com filtros por gênero, período, bairro, produto e marca.
-[![](gifs/superpets.gif)](https://app.powerbi.com/view?r=eyJrIjoiOTYwNThlM2ItNjc0NS00ZGI1LTljZGEtZmVlZDU1YmNkYzFiIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+### Análises Realizadas
+- **Movimentações de Funcionários:** Análise das mudanças internas de cargo ao longo do tempo.
+- **Pessoas Ativas na Empresa:** Acompanhamento do número total de funcionários ativos mensalmente.
+- **Abstenção (Absentismo):** Métricas de absenteísmo para avaliar o impacto das faltas no desempenho organizacional.
+- **Turnover Geral:** Taxa de turnover para medir a rotatividade de funcionários na empresa.
+- **Motivos das Movimentações:** Identificação das principais razões por trás das mudanças de posição ou saídas da empresa.
+- **Métricas ao Longo do Mês:** Variação mensal das métricas de movimentações, ativos, abstenção e turnover.
 
-### E-commerce no Brasil: 
-#### Análise de dados Olist, examinando compras feitas em e-commerces no Brasil entre janeiro de 2017 e agosto de 2018, incluindo métodos de pagamento, valores dos produtos e pedidos registrados.
-[![](gifs/olist.gif#vitrinedev)](https://app.powerbi.com/view?r=eyJrIjoiYzFhNGE4MjUtZTI0OS00Nzc2LWJiYTUtOTAzMWUzMjNhY2MwIiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+### Resultados da Análise
+- Identificação de que mais de 60% das saídas voluntárias foram devido à implementação da nova cultura na empresa.
+- A análise revelou que a quantidade significativa de desligamentos foi justificada pela fusão com outra empresa, impactando o ambiente de trabalho.
+- Em 2018, houve uma redução nos desligamentos, porém poucas contratações ocorreram devido à falta de demanda de mercado e clientes, refletindo na necessidade reduzida de contratações.
 
-### Clube do Livro: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/clubedolivro.gif)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
-
-### People Analytics: 
-#### Análise de dados sobre os funcionários de uma empresa fictícia com o objetivo de melhorar a tomada de decisões relacionadas ao RH e gestão de pessoas. Onde conseguimos analisar a razão de tantos desligamentos e das poucas admissões que ocorreram na empresa. 
-[![](gifs/dataminds.gif)](https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+### Conclusão
+Este projeto de People Analytics proporciona insights valiosos para a gestão de recursos humanos, ajudando a empresa a entender melhor as dinâmicas internas, melhorar a retenção de talentos e adaptar estratégias de recrutamento e desenvolvimento organizacional.
