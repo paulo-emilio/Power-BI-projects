@@ -3,10 +3,9 @@
 #### Visão Geral
 O projeto consiste na criação de um dashboard interativo no Power BI para analisar as assinaturas realizadas no site "Clube do Livro". O objetivo principal é fornecer uma visão abrangente e detalhada sobre o comportamento dos assinantes, a performance de vendas e as características demográficas dos clientes.
 
-
 [![](clubedolivro.gif)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
-
+**Link para acessar o dashboard no Power BI:** [Dashboard do Clube do Livro](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NzBlNGQtNmFmZC00Y2FkLThlOWQtZjc2Y2YwNTM1MDc2IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
 #### Dados Analisados
 
