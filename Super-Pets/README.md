@@ -1,4 +1,4 @@
-## Dashboard "Super Pets": Análise Automática de Vendas
+## Super Pets: Análise de Vendas
 
 #### Visão Geral
 O projeto "Super Pets" consiste na criação de um dashboard no Power BI que se atualiza automaticamente com base nos dados de vendas de uma loja de produtos para animais de estimação. O objetivo é permitir uma análise detalhada do faturamento da loja, com filtros interativos por gênero do cliente, período de vendas, bairro, produto e marca, proporcionando insights valiosos para otimização de estoque, estratégias de marketing e tomada de decisões comerciais.
