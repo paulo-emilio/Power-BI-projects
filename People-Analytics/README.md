@@ -1,9 +1,11 @@
 ## People Analytics: Análise de Movimentações e Desligamentos
 
-### Visão Geral 
+#### Visão Geral 
 Este projeto de People Analytics tem como objetivo analisar os dados de admissões, movimentações internas, desligamentos voluntários ou demitidos em uma empresa, visando melhorar a gestão de recursos humanos e subsidiar decisões estratégicas.
 
-[![](peopleanalytics.gif)](https://app.powerbi.com/view?r=eyJrIjoiNjMxN2ZiMzAtMmUxMC00MDk1LTg1ODAtNzg2MTFkNzQ3YmE0IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+[![](peopleanalytics.gif)](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
+
+**Link para acessar o dashboard no Power BI:** [Dashboard People Analytics](https://app.powerbi.com/view?r=eyJrIjoiNTI1ZmJjYzItZDM0Ny00NzJiLWFlZmItYzA1ZmZiZjRkMWQ4IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9)
 
 ### Dados Analisados
 1. **Admissões:** Registro de novas contratações na empresa.
