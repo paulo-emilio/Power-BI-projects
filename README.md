@@ -64,6 +64,8 @@ O foco deste projeto é analisar dados de compras realizadas em e-commerces no B
 
 - **Link para o projeto:** [E-commerce](E-commerce)
 
+
+<!--
 ### DataMinds
 
 **Objetivo:** Análise das vendas de cursos no projeto DataMinds.
