@@ -64,14 +64,12 @@ O foco deste projeto é analisar dados de compras realizadas em e-commerces no B
 
 - **Link para o projeto:** [E-commerce](E-commerce)
 
+### Data Minds
 
-<!--
-### DataMinds
-
-**Objetivo:** Análise das vendas de cursos no projeto DataMinds.
+**Objetivo:** Análise das vendas de cursos no projeto Data Minds.
 
 **Resumo:**
-O projeto DataMinds consiste na criação de um dashboard no Power BI para analisar as vendas de cursos oferecidos. Os dados analisados incluem total de vendas, percentual de comissão e comissão total gerada, com filtros disponíveis por vendedor, categoria de curso, ano, mês e curso específico, visando otimizar as estratégias de vendas e de comissões na empresa.
+O projeto Data Minds consiste na criação de um dashboard no Power BI para analisar as vendas de cursos oferecidos. Os dados analisados incluem total de vendas, percentual de comissão e comissão total gerada, com filtros disponíveis por vendedor, categoria de curso, ano, mês e curso específico, visando otimizar as estratégias de vendas e de comissões na empresa.
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZDRkZGQxMTMtYTk1ZS00ZjgxLWJhZTYtYTU4NDhlMTYxY2U3IiwidCI6IjEyMjExZGI2LWZiMWEtNDUwNi1iYjc2LWU5NWI3YTE0NTNiYyJ9">
@@ -79,4 +77,4 @@ O projeto DataMinds consiste na criação de um dashboard no Power BI para anali
   </a>
 </p>
 
-- **Link para o projeto:** [DataMinds](Data-Minds)
+- **Link para o projeto:** [Data Minds](Data-Minds)
